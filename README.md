@@ -18,8 +18,8 @@ The table below implies that at least base/orogen/types are available for this p
 | Distribution  | master-22.06 | [master-20.10](doc/master-20.10.md) | [master-20.06](doc/master-20.06.md) | master-20.01 |    master-19.06  |     master-18.09 |     master-18.01     |
 |---------------|--------------|--------------|--------------------|------------------|------------------|----------------------|-----------|
 |Ubuntu 16.04   |              |               |             | amd64        | amd64            |    amd64         | amd64                |
-|Ubuntu 18.04   | amd64        | amd64,arm64 |amd64,arm64  | amd64        | amd64            |    amd64         ||
-|Ubuntu 20.04   |              |              |             |              |                  |                  ||
+|Ubuntu 18.04   |              | amd64,arm64 |amd64,arm64  | amd64        | amd64            |    amd64         ||
+|Ubuntu 20.04   | amd64        |              |             |              |                  |                  ||
 |Debian Jessie  |              |              |             |              | armel,armhf      |                  ||
 |Debian Stretch |              |              |             |              | amd64            |    amd64         ||
 |Debian Buster  |              | amd64,arm64  |amd64,arm64  | amd64,arm64  | amd64            |                  ||
